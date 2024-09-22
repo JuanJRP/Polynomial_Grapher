@@ -21,4 +21,5 @@ To install Polynomial Grapher, follow these steps:
 ## Usage
 
 To run the application, use the following command:
-    python interfazGrafica.py
+```bash
+python interfazGrafica.py
