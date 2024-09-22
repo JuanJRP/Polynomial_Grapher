@@ -12,7 +12,7 @@ To install Polynomial Grapher, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd polynomial-grapher
+    cd polynomial_grapher
 
 3. Install the necessary dependencies:
     ```bash
