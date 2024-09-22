@@ -8,7 +8,7 @@ To install Polynomial Grapher, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/JuanJRP/Polynomial-grapher.git
+   git clone https://github.com/JuanJRP/Polynomial_grapher.git
 
 2. Navigate to the project directory:
     ```bash
